@@ -1,2 +1,2 @@
 # mtricanowicz.github.io
-My page.
+My page. Just a bit about me.
